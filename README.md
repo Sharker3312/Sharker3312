@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙇‍♂️I am an engineer in telecommunications and electronics.<br> In my free time, I enjoy learning about new technologies.<br>Currently, I am focused on studying Cybersecurity and Cloud Administration, two areas that are becoming increasingly important in today's digital age.<br>
+💻 I am an engineer in telecommunications and electronics. 📡 <br> In my free time, I enjoy learning about new technologies 👨‍💻 .<br>Currently, I am focused on studying Cybersecurity and Cloud Administration ☁️, two areas that are becoming increasingly important in today's digital age .<br>
 
 
 ## 🌐 Socials:
