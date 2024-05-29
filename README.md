@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharker3312&label=Profile%20views&color=0e75b6&style=flat" alt="sharker3312" /> </p>
 
-- 👨‍💻 All of my projects are available at [poportfolio-lesterdprez.vercel.app](portfolio-lesterdprez.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-lesterdprez.vercel.app](portfolio-lesterdprez.vercel.app)
 
 - 📝 I regularly write articles on [dev.to/sharker3312](dev.to/sharker3312)
 
