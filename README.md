@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lester Diaz</h1>
-<h3 align="center">Telecommunications📡 and Electronics Engineer |🔋Entry Level DevOps Engineer | I focus on creating better solutions in cloud☁ apps with CI/CD♾️tools.</h3>
+<h3 align="center">Telecommunications📡 and Electronics Engineer |🔋 DevOps Engineer | I focus on creating better solutions in cloud☁ apps with CI/CD♾️tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharker3312&label=Profile%20views&color=0e75b6&style=flat" alt="sharker3312" /> </p>
 
